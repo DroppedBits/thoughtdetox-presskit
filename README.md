@@ -8,11 +8,11 @@ Work through what's on your mind, with complete peace of mind. Thought Detox's c
 
 ## What is Thought Detox?
 
-Writing down your negative feelings and then discarding them can [help you find peace][psychtoday]. Thought Detox is an iPhone app that lets you mindfully work through those most private thoughts, on your most personal device.
+Writing down your negative thoughts and then discarding them can [help you find peace][psychtoday]. Thought Detox is an iPhone app that lets you mindfully work through those most private thoughts, on your most personal device.
 
 Want to see how that mindfulness affects your week? Connect the app to Apple Health to track the time you spend working through negative thoughts. See those mindfulness trends over the past seven days in the app, or add them to your home screen as a widget. Thought Detox even integrates with [Wind Down][winddown], to let you quickly clear your head before bed.
 
-Learn more on the the [app website][website], or [email me][mailto] and I'll be happy to answer your questions.
+Learn more on the [app website][website], follow the app's [Twitter account][twitter], or [email me][mailto] and I'll be happy to answer your questions.
 
 ## Work through your most private thoughts, on your most personal device.
 
@@ -27,7 +27,7 @@ Learn more on the the [app website][website], or [email me][mailto] and I'll be 
 
 Thought Detox is a paid app, with no in-app purchases and no subscriptions. Pricing is available on the [App Store][appstore] product page.
 
-(I can't protect anyone's privacy if I have to sell data to advertisers.)
+(Why charge for the app? Because I can't protect anyone's privacy if I have to sell data to advertisers.)
 
 ## Availability
 
@@ -65,6 +65,7 @@ Feel free to use these images and videos in reviews of Thought Detox. Retina ver
 [psychtoday]: https://www.psychologytoday.com/us/blog/choke/201301/throw-those-nasty-thoughts-away
 [winddown]: https://support.apple.com/en-ca/guide/iphone/iph2d7daf6fc/ios
 [website]: https://thoughtdetox.app
+[twitter]: https://twitter.com/ThoughtDetoxApp
 [mailto]: mailto:angelo@droppedbits.com
 [appstore]: https://apps.apple.com/app/thought-detox/id1534491093
 [me]: https://angelostavrow.com
