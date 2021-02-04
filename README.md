@@ -12,7 +12,7 @@ Writing down your negative thoughts and then discarding them can [help you find 
 
 Want to see how that mindfulness affects your week? Connect the app to Apple Health to track the time you spend working through negative thoughts. See those mindfulness trends over the past seven days in the app, or add them to your home screen as a widget. Thought Detox even integrates with [Wind Down][winddown], to let you quickly clear your head before bed.
 
-Learn more on the [app website][website], follow the app's [Twitter account][twitter], or [email me][mailto] and I'll be happy to answer your questions.
+Learn more on the [app website][website] (coming soon!), follow the app's [Twitter account][twitter], or [email me][mailto] and I'll be happy to answer your questions.
 
 ## Work through your most private thoughts, on your most personal device.
 
@@ -25,13 +25,13 @@ Learn more on the [app website][website], follow the app's [Twitter account][twi
 
 ## Pricing
 
-Thought Detox is a paid app, with no in-app purchases and no subscriptions. Pricing is available on the [App Store][appstore] product page.
+Thought Detox is a paid app, with no in-app purchases or subscriptions. It will cost USD$2.99, with a sale price of USD$0.99 for the first 48 hours after launch. The most up-to-date pricing is available on the [App Store product page][appstore].
 
 (Why charge for the app? Because I can't protect anyone's privacy if I have to sell data to advertisers.)
 
 ## Availability
 
-Thought Detox is available on the App Store.
+Thought Detox will launch on the App Store Monday, 15 February, 2021.
 
 [!["Thought Detox is available on the App Store"](Images/app-store-badge.svg)][appstore]
 
