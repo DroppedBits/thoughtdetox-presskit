@@ -12,7 +12,7 @@ Writing down your negative thoughts and then discarding them can [help you find 
 
 Want to see how that mindfulness affects your week? Connect the app to Apple Health to track the time you spend working through negative thoughts. See those mindfulness trends over the past seven days in the app, or add them to your home screen as a widget. Thought Detox even integrates with [Wind Down][winddown], to let you quickly clear your head before bed.
 
-Learn more on the [app website][website] (coming soon!), follow the app's [Twitter account][twitter], or [email me][mailto] and I'll be happy to answer your questions.
+Learn more on the [app website][website] (coming soon!), follow the [Dropped Bits Twitter account][twitter], or [email me][mailto] and I'll be happy to answer your questions.
 
 ## Work through your most private thoughts, on your most personal device.
 
@@ -65,7 +65,7 @@ Feel free to use these images and videos in reviews of Thought Detox. Retina ver
 [psychtoday]: https://www.psychologytoday.com/us/blog/choke/201301/throw-those-nasty-thoughts-away
 [winddown]: https://support.apple.com/en-ca/guide/iphone/iph2d7daf6fc/ios
 [website]: https://thoughtdetox.app
-[twitter]: https://twitter.com/ThoughtDetoxApp
+[twitter]: https://twitter.com/DroppedBitsHQ
 [mailto]: mailto:angelo@droppedbits.com
 [appstore]: https://apps.apple.com/app/thought-detox/id1534491093
 [me]: https://angelostavrow.com
